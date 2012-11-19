@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GrayScale!</string>
+    <string name="app_name">grayscale</string>
+    <string name="origin_img">원본 이미지</string>
+    <string name="grayscale_imageview">grayscale 이미지뷰</string>
+    <string name="grayscale_drawable">grayscale drawable</string>
+    <string name="btn_clear">clear</string>
+    <string name="btn_imageview">이미지뷰를 grayscale로</string>
+    <string name="btn_drawable">drawable을 grayscale로</string>
+    <string name="menu_settings">메뉴세팅</string>
+    <string name="title_activity_grayscale">grayscale</string>
+</resources>
